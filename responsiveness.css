@@ -1,0 +1,21 @@
+@media screen and (max-width: 1000px){
+  .gtext h1{
+    font-size: 22vh;
+  }
+
+  .navbar-data{
+    display: none;
+  }
+}
+
+@media screen and (max-width: 2400px){
+  .top-container{
+    width: 1500px;
+    height: 4100px;
+  }
+  .featured-proj-continued{
+    width: 100vw;
+  }
+}
+
+
